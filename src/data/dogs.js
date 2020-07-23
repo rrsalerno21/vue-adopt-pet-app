@@ -2,6 +2,7 @@ export default [
   {
     name: 'Zeus',
     breed: 'afghan hound',
+    species: 'dog',
     gender: 'male',
     age: 9,
     color: 'gray',
@@ -12,6 +13,7 @@ export default [
   {
     name: 'Katie',
     breed: 'golden retriever',
+    species: 'dog',
     gender: 'female',
     age: 3,
     color: 'black',
@@ -22,6 +24,7 @@ export default [
   {
     name: 'Hillary',
     breed: 'mut',
+    species: 'dog',
     gender: 'femail',
     age: 17,
     color: 'orange/white',
