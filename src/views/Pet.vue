@@ -1,5 +1,6 @@
 <template>
     <div>
-        Pets
+        {{ $route.params.species }}
+        {{ $route.params.id }}
     </div>
 </template>
